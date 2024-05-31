@@ -1,1 +1,1 @@
-# Token
+{"name":"GUI INU","symbol":"GUI","description":"GUI INU is the #1 community token on Aptos and now on Solana! Made by the community, for the community.","image":"https://www.guiinu.com/assets/HeaderLogo-7jXcIshK.png","attributes":[],"properties":{"files":[{"uri":"https://www.guiinu.com/assets/HeaderLogo-7jXcIshK.png","type":"image/png"}]}}
